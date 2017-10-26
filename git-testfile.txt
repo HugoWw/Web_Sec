@@ -7,5 +7,4 @@ hello shell!
 git branch a add !
 
 ---------------
-
 git branch b add !
